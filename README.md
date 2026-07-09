@@ -1,3 +1,6 @@
+h1, h2, h3 {
+    border-bottom: none !important;
+}
 클린 팬덤 피드백 플랫폼
 ====
 <h2>기획 배경 및 문제점</h2>
